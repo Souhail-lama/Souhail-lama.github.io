@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 18 nov. 2023, 08:19:34
+    Author     : Souhaïl
+*/
+#titre1 {
+    color: red;
+    font-family: serif;
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background-color: #ffff99;
+    font-family: verdana;
+    color: blue;
+    font-size:20px;
+}
+.autresTitres {
+    color: green;
+    font-size: 35px;
+    justify-content: left;
+    text-decoration: underline;
+}
+img {
+    position: relative;
+    border-radius: 10px ;
+    padding: 10px;
+    width: 15%;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 5px solid red;
+    background-color: blue;
+}
+table,th {
+    border: 2px red solid; width: 25%; border-collapse: collapse;
+    text-align: center; font-size: 25px;
+    color: green;
+}
+table,td {
+    border: 2px red solid; width: 25%; border-collapse: collapse;
+    color: blue;
+    text-align: center;
+}
+table{
+    width: 50%
+}
